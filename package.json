@@ -1,0 +1,25 @@
+{
+  "name": "geographies_by_lat_long",
+  "version": "0.0.1",
+  "description": "Simple CSV files matching counties and ZIP code tabulation areas to their geographic centroids",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimeMagazine/geographies_by_lat_long.git"
+  },
+  "keywords": [
+    "geography"
+  ],
+  "author": "Chris Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TimeMagazine/geographies_by_lat_long/issues"
+  },
+  "homepage": "https://github.com/TimeMagazine/geographies_by_lat_long#readme",
+  "dependencies": {
+    "fast-csv": "^0.6.0"
+  }
+}
